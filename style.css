@@ -138,6 +138,12 @@ header a.conbtn:hover {
   background-position: center;
   background-color: #c0dbe7;
 }
+#icc{
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
 .home .content {
   flex: 1 1 40rem;
 }
